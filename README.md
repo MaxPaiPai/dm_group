@@ -1,2 +1,5 @@
 # dm_group
-group repo for data mining course
+
+Vision transformer: https://github.com/lucidrains/vit-pytorch
+
+Attention-based transformer: https://github.com/lucidrains/performer-pytorch
